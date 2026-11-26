@@ -1,7 +1,7 @@
 {
   "source": "https://cripticodiario.com",
-  "generatedAt": "2026-11-26T20:16:20.176Z",
-  "count": 43,
+  "generatedAt": "2026-11-26T20:53:34.497Z",
+  "count": 50,
   "puzzles": [
     {
       "date": "2026-10-15",
@@ -732,6 +732,125 @@
       },
       "definition": "Hacemos \"screenshot\" (captura de pantalla).",
       "wordplay": "\"Robó el botón del pantalón\", indica quitar ON (que suele se un botón de encender) de \"pantalón\", quedando PANTAL. \"Dejó allí un artículo femenino\" indica agregar LA (artículo femenino). PANTAL + LA = PANTALLA, que la capturamos.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-27",
+      "clue": "Dos tercios, uno de tomate y uno de chocolate por arriba.",
+      "solution": "TECHO",
+      "author": "Aldisu",
+      "definitionText": "por arriba",
+      "indicatorText": "Dos tercios|uno de#1| y uno de",
+      "fillerText": "tomate|chocolate",
+      "hints": {
+        "definition": "La definición es \"por arriba\".",
+        "indicator": "El indicador es \"Dos tercios, uno de (...) y uno de\". Es de Selector.",
+        "filler": "El relleno es \"tomate\" y \"chocolate\"."
+      },
+      "definition": "Parte superior que cubre y cierra una estructura por arriba.",
+      "wordplay": "\"Dos tercios\" indica que hay que tomar un tercio de cada relleno: uno de \"tomaTE\" y uno de \"CHOcolate\". TE + CHO = TECHO, que está por arriba.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-28",
+      "clue": "Ya pasó, el hielo se derritió, queda menos de la mitad... Esto no empezó sabroso.",
+      "solution": "HISTORICO",
+      "author": "Franpa",
+      "definitionText": "Ya pasó",
+      "indicatorText": "derritió, queda menos de la mitad|no empezó",
+      "fillerText": "hielo|Esto|sabroso",
+      "hints": {
+        "definition": "La definición es \"Ya pasó\".",
+        "indicator": "Los indicadores son \"derritió, queda menos de la mitad\" y \"no empezó\". Ambos son de Sustracción, pero para rellenos diferentes.",
+        "filler": "El relleno es \"hielo\", \"Esto\" y \"sabroso\". Tendremos que buscar un sustituto para uno de ellos."
+      },
+      "definition": "Hechos, personajes, documentos o procesos vinculados al pasado.",
+      "wordplay": "\"El hielo se derritió, queda menos de la mitad\" indica quedarnos sólo con las dos primeras letras de \"hielo\", HI. \"Esto no empezó\" indica quitarle la primera letra a \"Esto\", quedando STO. \"Sabroso\" es RICO. HI + STO + RICO = HISTORICO, que ya pasó.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-29",
+      "clue": "Como Noé en los inicios, cargo bestias zancudas donde habitan las ideas.",
+      "solution": "CABEZA",
+      "author": "Fufurazo",
+      "definitionText": "donde habitan las ideas",
+      "indicatorText": "Como Noé en los inicios",
+      "fillerText": "cargo bestias zancudas",
+      "hints": {
+        "definition": "La definición es \"donde habitan las ideas\".",
+        "indicator": "El indicador es \"Como Noé en los inicios\", es de Selector.",
+        "filler": "El relleno es \"cargo bestias zancudas\". A estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Donde está el cerebro.",
+      "wordplay": "\"Como Noé en los inicios\" indica tomar las dos primeras letras de cada palabra del relleno (de a parejas como Noé tomaba a los animales). El relleno es \"CArgo BEstias ZAncudas\". Queda CABEZA, donde habitan las ideas.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-30",
+      "clue": "El tráiler de la película empieza con costas americanas, nadie observa al cazador acuático.",
+      "solution": "PELICANO",
+      "author": "tomimart",
+      "definitionText": "cazador acuático",
+      "indicatorText": "El tráiler de|empieza con",
+      "fillerText": "película|costas americanas, nadie observa",
+      "hints": {
+        "definition": "La definición es \"cazador acuático\".",
+        "indicator": "Los indicadores son \"El tráiler de\" y \"empieza con\". Uno es de Sustracción y el otro de Selector.",
+        "filler": "El relleno es \"película\" y \"costas americanas, nadie observa\". Sobre estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Ave cazadora acuática especializada en la pesca.",
+      "wordplay": "\"El tráiler de la película\" indica tomar sólo una parte de la \"película\", en este caso, PELI. \"Empieza con\" indica tomar las primeras de algún relleno, en este caso, de \"Costas Americanas, Nadie Observa\", quedando CANO. PELI + CANO = PELICANO, un cazador acuático",
+      "tag": null
+    },
+    {
+      "date": "2026-12-01",
+      "clue": "Líquido plata, oro se vuelve.",
+      "solution": "AGUA",
+      "author": "Papi Umami",
+      "definitionText": "Líquido",
+      "indicatorText": "se vuelve",
+      "fillerText": "plata|oro",
+      "hints": {
+        "definition": "La definición es \"Líquido\".",
+        "indicator": "El indicador es \"se vuelve\", es de Reverso.",
+        "filler": "El relleno es \"plata\" y \"oro\". Tendremos que buscar sustitutos..."
+      },
+      "definition": "Líquido transparente, incoloro, inodoro e insípido.",
+      "wordplay": "El símbolo químico de la plata es AG, y el del oro es AU, que si \"se vuelve\" (Reverso) queda UA. AG + UA = AGUA, un líquido.",
+      "tag": null
+    },
+    {
+      "date": "2026-12-02",
+      "clue": "Los 30 ordenados en felpa me acogieron contrariamente.",
+      "solution": "MAPLE",
+      "author": "AleX",
+      "definitionText": "Los 30 ordenados",
+      "indicatorText": "en|acogieron|contrariamente",
+      "fillerText": "felpa me",
+      "hints": {
+        "definition": "la definición es \"Los 30 ordenados\".",
+        "indicator": "Los indicadores son \"en (...) acogieron\" y \"contrariamente\". Uno es de Palabra Escondida y el otro de Reverso.",
+        "filler": "El relleno es \"felpa me\". A estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Recipiente o bandeja diseñada para almacenar, proteger y transportar huevos (usualmente 30).",
+      "wordplay": "\"en felpa me acogieron\", indica que en \"felpa me\" hay una palabra escondida, en este caso ELPAM, que \"contrariamente\" es MAPLE, de 30 huevos ordenados.",
+      "tag": null
+    },
+    {
+      "date": "2026-12-03",
+      "clue": "¡Caos rotando!",
+      "solution": "TORNADO",
+      "author": "Papi Umami",
+      "definitionText": "¡Caos rotando!",
+      "indicatorText": "Caos",
+      "fillerText": "rotando",
+      "hints": {
+        "definition": "Este críptico es un caso especial, donde la definición es la superficie completa.",
+        "indicator": "El indicador es \"Caos\", es de Anagrama.",
+        "filler": "El relleno es \"rotando\". Sobre esta palabra tendremos que aplicar el indicador."
+      },
+      "definition": "Columna de aire estrecha que gira violentamente.",
+      "wordplay": "\"Caos\" indica hacer un Anagrama del relleno \"rotando\", que queda TORNADO: ¡Caos rotando!",
       "tag": null
     }
   ]
