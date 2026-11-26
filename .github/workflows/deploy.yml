@@ -20,9 +20,10 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  TZ: Europe/Madrid # define qué es "hoy" (no se publican días futuros)
+  TZ: Europe/Madrid # define qué es "hoy"
   CRIPTICOS_URL: https://cripticodiario.com
   FETCH_DAYS: 7 # revisa los últimos N días por si alguno falló o cambió
+  FETCH_AHEAD: 31 # y los próximos N días (crípticos ya programados)
 
 jobs:
   build:
@@ -46,7 +47,7 @@ jobs:
         run: |
           npm ci
           npx playwright install --with-deps chromium
-          node fetch.mjs --url "$CRIPTICOS_URL" --days "$FETCH_DAYS" --out ../app/src/data
+          node fetch.mjs --url "$CRIPTICOS_URL" --days "$FETCH_DAYS" --ahead "$FETCH_AHEAD" --out ../app/src/data
 
       - name: Guardar datos en el repo
         if: github.event_name != 'push'

@@ -1,14 +1,13 @@
 // Abre la web en un Chromium headless y ejecuta, dentro de la página,
 // `await fetchDailyPuzzleFromSupabase("YYYY-MM-DD")` para cada fecha del rango.
 //
-// Los resultados se FUSIONAN con el cripticos.json existente (no se pierde nada)
-// y nunca se guardan crípticos de días futuros (salvo --include-future).
+// Los resultados se FUSIONAN con el cripticos.json existente (no se pierde nada).
 //
 // Uso: node fetch.mjs --url https://web.com --out ../app/src/data
 //      [--year 2026]            todo ese año (por defecto, el actual)
-//      [--days 7]               solo los últimos N días hasta hoy
+//      [--days 7] [--ahead 31]  los últimos N días hasta hoy y los N días siguientes
 //      [--from 2026-01-01] [--to 2026-12-31]
-//      [--concurrency 4] [--fn fetchDailyPuzzleFromSupabase] [--headed] [--include-future]
+//      [--concurrency 4] [--fn fetchDailyPuzzleFromSupabase] [--headed]
 //
 // "Hoy" usa la zona horaria del proceso (variable TZ, p.ej. TZ=Europe/Madrid).
 
@@ -40,16 +39,14 @@ const addDays = (iso, n) => {
   d.setUTCDate(d.getUTCDate() + n);
   return d.toISOString().slice(0, 10);
 };
-const includeFuture = Boolean(args["include-future"]);
 
 const year = Number(args.year ?? today.slice(0, 4));
 let from = args.from ?? `${year}-01-01`;
 let to = args.to ?? `${year}-12-31`;
 if (args.days) {
   from = addDays(today, -Math.max(0, Number(args.days) - 1));
-  to = today;
+  to = addDays(today, Math.max(0, Number(args.ahead ?? 0)));
 }
-if (!includeFuture && to > today) to = today;
 const outDir = path.resolve(args.out ?? "../app/src/data");
 const concurrency = Math.max(1, Number(args.concurrency ?? 4));
 const fnName = args.fn ?? "fetchDailyPuzzleFromSupabase";
@@ -170,7 +167,6 @@ try {
 const byDate = new Map((previous.puzzles ?? []).map((p) => [p.date, p]));
 for (const p of puzzles) byDate.set(p.date, p);
 const merged = [...byDate.values()]
-  .filter((p) => includeFuture || p.date <= today) // nunca publicar días futuros
   .sort((a, b) => a.date.localeCompare(b.date));
 
 const changed = JSON.stringify(merged) !== JSON.stringify(previous.puzzles ?? []);

@@ -4,10 +4,7 @@ import Cripticos from "../components/Cripticos";
 import data from "../data/cripticos.json";
 import type { CripticosData } from "../lib/types";
 
-// Nunca publicar crípticos de días futuros (zona horaria: TZ del build)
-const today = new Date().toLocaleDateString("sv-SE");
-const raw = data as CripticosData;
-const payload: CripticosData = { ...raw, puzzles: raw.puzzles.filter((p) => p.date <= today) };
+const payload = data as CripticosData;
 ---
 
 <!doctype html>
