@@ -1,0 +1,27 @@
+---
+import "../styles/global.css";
+import Cripticos from "../components/Cripticos";
+import data from "../data/cripticos.json";
+import type { CripticosData } from "../lib/types";
+
+// Nunca publicar crípticos de días futuros (zona horaria: TZ del build)
+const today = new Date().toLocaleDateString("sv-SE");
+const raw = data as CripticosData;
+const payload: CripticosData = { ...raw, puzzles: raw.puzzles.filter((p) => p.date <= today) };
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#161513" media="(prefers-color-scheme: dark)" />
+    <meta name="robots" content="noindex" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧩</text></svg>" />
+    <title>Crípticos</title>
+  </head>
+  <body class="bg-paper text-ink antialiased dark:bg-stone-950 dark:text-stone-100">
+    <Cripticos client:load data={payload} />
+  </body>
+</html>

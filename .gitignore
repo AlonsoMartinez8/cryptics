@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.astro/
+scraper/errors.json
+.DS_Store

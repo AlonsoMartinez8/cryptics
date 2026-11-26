@@ -1,0 +1,89 @@
+name: Actualizar crípticos y desplegar
+
+on:
+  # Todos los días a las 23:05 UTC (00:05 en Madrid en invierno, 01:05 en verano)
+  schedule:
+    - cron: "5 23 * * *"
+  # Botón "Run workflow" en la pestaña Actions
+  workflow_dispatch:
+  # Al subir cambios de código
+  push:
+    branches: [main]
+
+permissions:
+  contents: write # para guardar el JSON actualizado en el repo
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  TZ: Europe/Madrid # define qué es "hoy" (no se publican días futuros)
+  CRIPTICOS_URL: https://cripticodiario.com
+  FETCH_DAYS: 7 # revisa los últimos N días por si alguno falló o cambió
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: |
+            scraper/package-lock.json
+            app/package-lock.json
+
+      - name: Descargar crípticos nuevos
+        if: github.event_name != 'push'
+        # Si la web falla, se despliega igualmente con los datos que ya hay
+        continue-on-error: true
+        working-directory: scraper
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+          node fetch.mjs --url "$CRIPTICOS_URL" --days "$FETCH_DAYS" --out ../app/src/data
+
+      - name: Guardar datos en el repo
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add app/src/data/cripticos.json
+          if git diff --cached --quiet; then
+            echo "Sin crípticos nuevos"
+          else
+            git commit -m "Actualizar crípticos ($(date +%F))"
+            git push
+          fi
+
+      - name: Configurar Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Compilar la web
+        working-directory: app
+        env:
+          SITE: ${{ steps.pages.outputs.origin }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          npm ci
+          npm run build
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: app/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

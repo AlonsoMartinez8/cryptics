@@ -1,0 +1,738 @@
+{
+  "source": "https://cripticodiario.com",
+  "generatedAt": "2026-11-26T20:16:20.176Z",
+  "count": 43,
+  "puzzles": [
+    {
+      "date": "2026-10-15",
+      "clue": "Hay gente perdida por el hombre inglés, el presidente de la isla, que luego se alimentó.",
+      "solution": "MANICOMIO",
+      "author": "Fran",
+      "definitionText": "Hay gente perdida",
+      "indicatorText": "inglés|el presidente de",
+      "fillerText": "hombre|isla|se alimentó",
+      "hints": {
+        "definition": "La definición es \"Hay gente perdida\"",
+        "indicator": "Los indicadores son \"inglés\" y \"el presidente de\". Uno es de Traducción y el otro de Selector.",
+        "filler": "Los rellenos son \"hombre\", \"isla\", y \"se alimentó\". Los indicadores deberan ser usados en estas palabras o en sustitutos de las mismas."
+      },
+      "definition": "Hospital o clínica tradicional donde se interna y trata a personas con trastornos mentales graves.",
+      "wordplay": "El hombre inglés es \"man\", el presidente de la isla es la letra \"i\",  se alimentó es \"comió\". Uniendo todas las letras queda \"manicomio\" donde hay gente perdida.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-16",
+      "clue": "Oye, asusta que la exhibición de animales no termine, van muy profundo.",
+      "solution": "BUZO",
+      "author": "Fran",
+      "definitionText": "van muy profundo",
+      "indicatorText": "Oye|no termine",
+      "fillerText": "asusta|exhibición de animales",
+      "hints": {
+        "definition": "La definición es \"van muy profundo\".",
+        "indicator": "Los indicadores son \"Oye\" y \"no termine\". Uno es de Homófono/Onomatopeya y el otro de Sustracción (eliminar alguna letra de algún relleno).",
+        "filler": "Los rellenos son \"Asusta\" y \"exhibición de animales\". Puede que haya que buscar sustitutos."
+      },
+      "definition": "Persona que se sumerge en el agua (mar, ríos, lagos) con o sin equipo de respiración para realizar trabajos profesionales, científicos, militares o recreativos.",
+      "wordplay": "\"Asusta\" se sustituye por su onomatopeya \"Bu\" (\"oye\"). \"Exhibición de animales\" es \"zoo\", y quitándole la última letra (\"no termine\") queda \"zo\". \"Bu\"+\"zo\"=\"BUZO\", que van muy profundo.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-17",
+      "clue": "Es preferible, entre aras, que lo arroje más atrás.",
+      "solution": "MEJOR",
+      "author": "Fran",
+      "definitionText": "Es preferible",
+      "indicatorText": "entre|atrás",
+      "fillerText": "aras|arroje más",
+      "hints": {
+        "definition": "La definición es \"Es preferible\".",
+        "indicator": "Los indicadores son \"entre\", y \"atrás\". Uno es de Palabra Escondida y el otro de Reverso.",
+        "filler": "Los rellenos son \"aras\" y \"arroje más\". A estas palabras (o sustitutos) se deberán aplicar el/los indicadores."
+      },
+      "definition": "Preferible o más conveniente",
+      "wordplay": "si miramos \"arroje más\" entre \"aras\", queda \"rojem\" (Palabra Escondida), y para atrás (Reverso) es \"MEJOR\", que es preferible.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-18",
+      "clue": "El último día sonó la primera y la tercera. Arrancó la nave para ir a Washington.",
+      "solution": "DOMINGO",
+      "author": "Fran",
+      "definitionText": "El último día",
+      "indicatorText": "la primera y la tercera|Arrancó|a Washington",
+      "fillerText": "sonó|nave|ir",
+      "hints": {
+        "definition": "La definición es \"el último día\".",
+        "indicator": "Los indicadores son \"la primera y la tercera\" (Selector), \"arrancó\" (Selector) y \"a Washington\" (Traducción).",
+        "filler": "El relleno es \"sonó\", \"nave\", e \"ir\". Sobre estas palabras o sustitutos de ellas habrá que aplicar los indicadores."
+      },
+      "definition": "Último día de la semana.",
+      "wordplay": "\"Sonó la primera y la tercera\" habla de las notas musicales DO y MI. \"Arrancó la nave\" indica tomar la primera letra de nave (N). \"ir a Washington\" indica traducir \"ir\" al inglés (GO). Todo junto queda DOMINGO, que es el último día.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-19",
+      "clue": "Para adultos, noviazgo pasado comienza pareciendo legal.",
+      "solution": "EXPLICITO",
+      "author": "Franpa",
+      "definitionText": "Para adultos",
+      "indicatorText": "comienza",
+      "fillerText": "noviazgo pasado|pareciendo|legal",
+      "hints": {
+        "definition": "La definición es \"Para adultos\".",
+        "indicator": "El indicador es \"comienza\", es de Selector.",
+        "filler": "El relleno es \"noviazgo pasado\", \"pareciendo\" y \"legal\". Tendremos que buscar sustitutos de dos de ellos."
+      },
+      "definition": "\"Contenido explícito\" suele ser contenido para adultos.",
+      "wordplay": "Noviazgo pasado es EX, \"comienza Pareciendo\" es la letra P, y \"legal\" es LICITO. Uniendo las letras queda EXPLICITO, que suele ser para adultos.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-20",
+      "clue": "Se confundió al salir sin la prima de Lucas, y se mofó.",
+      "solution": "RISA",
+      "author": "Ecuánime",
+      "definitionText": "se mofó",
+      "indicatorText": "Se confundió|sin|la prima de",
+      "fillerText": "salir|Lucas",
+      "hints": {
+        "definition": "La definición es \"se mofó\" (mofarse).",
+        "indicator": "Los indicadores son \"se confundió\", \"sin\" y \"la prima de\". Uno es de Sustracción, uno de Selector, y uno de Anagrama.",
+        "filler": "El relleno es \"salir\" y \"Lucas\". A estas palabras (o sustitutos) debemos aplicar los indicadores para formar la solución."
+      },
+      "definition": "Mofarse es una risa despectiva que busca ridiculizar a los demás.",
+      "wordplay": "Si a \"salir\" le quitamos la L (Sustracción), osea \"la prima de Lucas\" (Selector), queda SAIR. Como \"se confundió\" (Anagrama), queda RISA, que surge al mofarse.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-21",
+      "clue": "Al colocar una parte, su sonido te marea.",
+      "solution": "ALCOHOL",
+      "author": "Franpa",
+      "definitionText": "te marea",
+      "indicatorText": "una parte|su sonido",
+      "fillerText": "Al colocar",
+      "hints": {
+        "definition": "La definición es \"te marea\".",
+        "indicator": "Los indicadores son \"una parte\" y \"su sonido\". Uno es de Sustracción y el otro de Homófono.",
+        "filler": "El relleno es \"Al colocar\". A estas palabras (o sustitutos) aplicaremos el/los indicador/es."
+      },
+      "definition": "Sustancia que al beberla en cantidad te marea.",
+      "wordplay": "Si tomamos una parte de \"Al colocarla\", queda ALCOL. Su sonido es igual que el de ALCOHOL, que te marea.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-22",
+      "clue": "Conectan la derrota entre calles sin duplicar.",
+      "solution": "CABLES",
+      "author": "Eyranimbus",
+      "definitionText": "Conectan",
+      "indicatorText": "entre|sin duplicar",
+      "fillerText": "la derrota|calles",
+      "hints": {
+        "definition": "La definición es \"Conectan\".",
+        "indicator": "Los indicadores son \"entre\" y \"sin duplicar\". Uno es de Contenedor y otro de Sustracción.",
+        "filler": "El relleno es \"derrota\" y \"calles\". A una de esas palabras tendremos que pensarla de otra forma..."
+      },
+      "definition": "Conectan una cosa con otra.",
+      "wordplay": "La \"derrota\" la pensamos como D rota, que es la B. \"Calles\" sin duplicar indica quitar una L (que está duplicada), quedando CALES. Poniendo la B entre CALES queda CABLES, que conectan.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-23",
+      "clue": "El búho, desprotegido, volvió con lo que agarra el más inteligente.",
+      "solution": "HUMANO",
+      "author": "Franpa",
+      "definitionText": "el más inteligente",
+      "indicatorText": "desprotegido|volvió",
+      "fillerText": "búho|lo que agarra",
+      "hints": {
+        "definition": "La definición es \"el más inteligente\".",
+        "indicator": "Los indicadores son \"desprotegido\" y \"volvió\". Uno es de Sustracción y el otro de Reverso.",
+        "filler": "El relleno es \"búho\" y \"lo que agarra\". Tendremos que buscar un sustituto para uno de ellos."
+      },
+      "definition": "Los seres humanos son considerados la especie más inteligente de la Tierra.",
+      "wordplay": "El \"búho\" desprotegido indica quitarle la primera y la última letra, quedando UH. Volvió indica leerlo al revés, osea HU. \"Lo que agarra\" es la MANO. Uniendo queda HUMANO, que es el ser más inteligente.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-24",
+      "clue": "Aparece y se moja el rostro con tres cuartos de su cola.",
+      "solution": "CARACOL",
+      "author": "LuisNF",
+      "definitionText": "Aparece y se moja",
+      "indicatorText": "tres cuartos de",
+      "fillerText": "rostro|cola",
+      "hints": {
+        "definition": "La definición es \"Aparece y se moja\".",
+        "indicator": "El indicador es \"tres cuartos de\". Es de Sustracción.",
+        "filler": "El relleno es \"rostro\" y \"cola\". Tendremos que buscar un sustituto para una de ellas."
+      },
+      "definition": "Es un molusco que solo asoma o sale de su concha (aparece) en presencia de lluvia o rocío, manteniendo siempre su cuerpo húmedo (y se moja).",
+      "wordplay": "El \"rostro\" es CARA, y tres cuartos de su \"cola\" indica usar tres de las cuatro letras de la palabra, osea COL. Uniendo queda CARACOL, que aparece y se moja.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-25",
+      "clue": "Se fue el más valioso, asustaste terriblemente a la categoría.",
+      "solution": "ESTATUS",
+      "author": "Franpa",
+      "definitionText": "la categoría",
+      "indicatorText": "Se fue|terriblemente",
+      "fillerText": "el más valioso|asustaste",
+      "hints": {
+        "definition": "La definición es \"la categoría\".",
+        "indicator": "Los indicadores son \"Se fue\", y \"terriblemente\". Uno es de Sustracción y el otro de Anagrama.",
+        "filler": "El relleno es \"el más valioso\" y \"asustaste\". Tendremos que buscar un sustituto para uno de ellos."
+      },
+      "definition": "Categoría, posición social.",
+      "wordplay": "El más valioso se refiere al AS. Como se fue, hay que quitárselo a ASUSTASTE, quedando USTASTE. \"Terriblemente\" indica Anagrama, y cambiando las letras de USTASTE queda ESTATUS, que es categoría.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-26",
+      "clue": "Se voltea el talco desparramado para seguir al líder.",
+      "solution": "ESCOLTA",
+      "author": "Jony G.",
+      "definitionText": "seguir al líder",
+      "indicatorText": "voltea|desparramado",
+      "fillerText": "Se|talco",
+      "hints": {
+        "definition": "La definición es \"seguir al líder\".",
+        "indicator": "Los indicadores son \"voltea\" y \"desparramado\". Uno es de Reverso y el otro de Anagrama.",
+        "filler": "El relleno es \"Se\" y \"talco\". A estas palabras deberemos aplicar los indicadores."
+      },
+      "definition": "Custodia o acompañamiento de alguien (usualmente un líder) o algo para garantizar su seguridad frente a posibles riesgos o ataques.",
+      "wordplay": "\"Se\" voltea indica leer la palabra al revés, osea ES. \"Talco\" desparramado indica ordenar las letras de otra forma, en este caso, COLTA. Uniendo queda ESCOLTA, quien sigue al líder.",
+      "tag": null
+    },
+    {
+      "date": "2026-10-27",
+      "clue": "Quizás se rompe el modesto flujo de radio ligero.",
+      "solution": "FRAGIL",
+      "author": "Franpa",
+      "definitionText": "Quizás se rompe",
+      "indicatorText": "Modesto",
+      "fillerText": "flujo|radio|ligero",
+      "hints": {
+        "definition": "La definición es \"Quizás se rompe\".",
+        "indicator": "El indicador es \"modesto\". Es de Sustracción, habrá que quitarle letras a algún relleno según el significado de esta palabra.",
+        "filler": "El relleno es \"flujo\", \"radio\" y \"ligero\". Habrá que buscar un sustituto para uno de ellos, y hay una Miscelánea en otro."
+      },
+      "definition": "Aquello que tiene poca resistencia y puede romperse, deteriorarse o lastimarse con facilidad.",
+      "wordplay": "\"Modesto\" indica quitarle LUJO a FLUJO (algo modesto es algo sin lujos), quedando la F. \"Radio\" se simboliza con la letra R, y ligero es sinónimo de ÁGIL. Uniendo todo queda FRÁGIL, algo que quizás se rompe.",
+      "tag": ""
+    },
+    {
+      "date": "2026-10-28",
+      "clue": "La prima de Augusto está acorralada por 1141 alborotados en la cima.",
+      "solution": "CLIMAX",
+      "author": "Raúl Cañas",
+      "definitionText": "la cima",
+      "indicatorText": "La prima de|acorralada por|alborotados",
+      "fillerText": "Augusto|1141",
+      "hints": {
+        "definition": "La definición es \"la cima\".",
+        "indicator": "Los indicadores son \"La prima de\", \"acorralada por\", y \"alborotados\". Uno es de Selector, uno de Contenedor, y uno de Anagrama.",
+        "filler": "El relleno es \"Augusto\" y \"1141\". Hay una Miscelánea en ellos."
+      },
+      "definition": "El momento de mayor intensidad o la parte más alta de un proceso.",
+      "wordplay": "La prima de \"Augusto\" es la A, que está acorralada entre MCXLI, que es 1141 en romanos. Como está alborotado, reorganizamos las letras, quedando CLIMAX, que es la cima.",
+      "tag": ""
+    },
+    {
+      "date": "2026-10-29",
+      "clue": "Hace lo que me mantiene activo detrás de mi faceta mal dispuesta.",
+      "solution": "CAFETERA",
+      "author": "Bryan",
+      "definitionText": "Hace lo que me mantiene activo",
+      "indicatorText": "mal dispuesta",
+      "fillerText": "detrás de mi faceta",
+      "hints": {
+        "definition": "La definición es \"Hace lo que me mantiene activo\".",
+        "indicator": "El indicador es \"mal dispuesta\". Es un indicador de Anagrama.",
+        "filler": "El relleno es \"detrás de mi faceta\". Tendremos que buscar un sustituto de una parte del relleno antes de aplicar el indicador."
+      },
+      "definition": "Hace café, que mantiene activo/despierto.",
+      "wordplay": "\"detrás de mi\" indica RE, la nota musical anterior a mi. Juntando RE con FACETA, queda REFACETA. \"Mal dispuesta\" es CAFETERA, que hace lo que me mantiene activo.",
+      "tag": ""
+    },
+    {
+      "date": "2026-10-30",
+      "clue": "La silenciosa reza junto al río para ordenar la jornada.",
+      "solution": "HORARIO",
+      "author": "emirchus",
+      "definitionText": "para ordenar la jornada",
+      "indicatorText": " ",
+      "fillerText": "La silenciosa|reza|río",
+      "hints": {
+        "definition": "La definición es \"para ordenar la jornada\".",
+        "indicator": "Este críptico no tiene indicadores. Eso significa que se resuelve buscando sustitutos de los rellenos.",
+        "filler": "El relleno es \"La silenciosa\", \"reza\" y \"río\". Tendremos que buscar sustitutos para algunos de ellos."
+      },
+      "definition": "Distribución del tiempo a lo largo del día.",
+      "wordplay": "\"La silenciosa\" es la H. \"Reza\" es ORA (de orar). \"Río\" queda como está (RIO). Juntando todo en orden queda HORARIO, que ordena la jornada.",
+      "tag": ""
+    },
+    {
+      "date": "2026-10-31",
+      "clue": "El ave sale victorioso abrazando los primeros lugares, logró imponerse.",
+      "solution": "GALLINA",
+      "author": "Franpa",
+      "definitionText": "El ave",
+      "indicatorText": "abrazando|los primeros",
+      "fillerText": "sale victorioso|lugares, logró imponerse.",
+      "hints": {
+        "definition": "La definición es \"El ave\".",
+        "indicator": "Los indicadores son \"abrazando\" y \"los primeros\". Uno es de Contenedor y el otro de Selector.",
+        "filler": "El relleno es \"sale victorioso\" y \"lugares, logró imponerse\". Habrá que buscar un sustituto para uno de ellos."
+      },
+      "definition": "Ave de corral.",
+      "wordplay": "\"Sale victorioso\" es GANA, y \"los primeros Lugares, Logró Imponerse\" son LLI. Si GANA abraza a LLI queda GALLINA, que es un ave.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-01",
+      "clue": "Se escuchó el enloquecido estornudo de Dante con su cabeza en la lluvia.",
+      "solution": "DUCHA",
+      "author": "Lukita",
+      "definitionText": "la lluvia.",
+      "indicatorText": "Se escuchó|enloquecido|su cabeza",
+      "fillerText": "estornudo|Dante",
+      "hints": {
+        "definition": "La definición es \"la lluvia\".",
+        "indicator": "Los indicadores son \"Se escuchó\", \"enloquecido\" y \"su cabeza\". Uno es de Onomatopeya, uno de Anagrama y el último de Selector.",
+        "filler": "El relleno es \"estornudo\" y \"Dante\", sobre estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Pequeña lluvia en el baño de casa.",
+      "wordplay": "\"Se escuchó el estornudo\" refiere a la onomatopeya ACHU, y la \"cabeza\" de Dante es la D. Eso, \"enloquecido\", queda DUCHA, una \"lluvia\".",
+      "tag": null
+    },
+    {
+      "date": "2026-11-02",
+      "clue": "Religión medio querida sin empezar donando el recurso de alto valor.",
+      "solution": "RELIQUIA",
+      "author": "Franpa",
+      "definitionText": "de alto valor",
+      "indicatorText": "medio|sin|empezar",
+      "fillerText": "Religión|querida|donando el recurso",
+      "hints": {
+        "definition": "La definición es \"de alto valor\".",
+        "indicator": "Los indicadores son \"medio\", \"sin\", y \"empezar\". Dos de ellos son de Sustracción y el último es de Selector.",
+        "filler": "El relleno es \"Religión\", \"querida\" y \"donando el recurso\". A estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Objeto antiguo de gran valor histórico, cultural o sentimental.",
+      "wordplay": "\"Religión medio\" indica tomar la mitad de RELIGIÓN, osea, RELI. \"Querida sin\" indica que a las letras de QUERIDA tendremos que restarle algo, y \"empezar Donando El Recurso\" indica las iniciales DER. QUERIDA - DER = QUIA.\nUniendo queda RELIQUIA, algo de alto valor. ",
+      "tag": null
+    },
+    {
+      "date": "2026-11-03",
+      "clue": "Oíste el sí a la quinta pregunta dada, sin terminar establecida lejos del campo.",
+      "solution": "CIUDAD",
+      "author": "CenaKin",
+      "definitionText": "establecida lejos del campo",
+      "indicatorText": "Oíste|quinta|sin terminar",
+      "fillerText": "sí|pregunta|dada",
+      "hints": {
+        "definition": "La definición es \"establecida lejos del campo\".",
+        "indicator": "Los indicadores son \"Oíste\" (Homófono), \"quinta\" (Selector) y \"sin terminar\" (Sustracción).",
+        "filler": "El relleno es \"sí\", \"pregunta\" y \"dada\". Sobre estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Concepto de ciudad como antónimo del campo.",
+      "wordplay": "\"Oíste el sí\" indica tomar \"sí\" como suena, osea CI. La \"quinta pregunta\" es la quinta letra de la palabra \"pregunta\", osea la U. \"Dada\" sin terminar es DAD. Uniendo queda CIUDAD, que está establecida lejos del campo.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-04",
+      "clue": "Tecleo: \"Batido\". Recibo 100, devuelvo 1 Euro. ¿¡Un batido!?",
+      "solution": "COCTEL",
+      "author": "Puche",
+      "definitionText": "¿¡Un batido!?",
+      "indicatorText": "Batido#1|Recibo|devuelvo 1",
+      "fillerText": "Tecleo|100|Euro",
+      "hints": {
+        "definition": "La definición es \"¿¡Un batido!?\".",
+        "indicator": "Los indicadores son \"Batido\", \"Recibo\" y \"devuelvo 1\". Uno es de Anagrama, uno de Contenedor y uno de Sustracción.",
+        "filler": "El relleno es \"Tecleo\", \"100\" y \"Euro\". Tendremos que buscar sustitutos para dos de estas palabras."
+      },
+      "definition": "Agitar o batir es una de las técnicas que se utilizan para preparar algunos cócteles.",
+      "wordplay": "\"Tecleo: \"Batido\"\" nos pide que hagamos un anagrama de TECLEO. \"Recibo 100\" nos pide que agreguemos una C (100 en romano) y \"devuelvo 1 Euro\" nos pide que quitemos una E. Mezclando todo (TECLOC) obtenemos CÓCTEL, un trago batido.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-05",
+      "clue": "¿Roja o negras? ¡Aleatorio!",
+      "solution": "SANGRE",
+      "author": "Franpa",
+      "definitionText": "Roja",
+      "indicatorText": "Aleatorio",
+      "fillerText": "negras",
+      "hints": {
+        "definition": "La definición es \"Roja\".",
+        "indicator": "El indicador es \"Aleatorio\", es de Anagrama.",
+        "filler": "El relleno es \"negras\"."
+      },
+      "definition": "La sangre es roja.",
+      "wordplay": "\"Aleatorio\" indica reordenar las letras de NEGRAS, quedando SANGRE, que es roja.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-06",
+      "clue": "500 + e + 6 - 1 + 0 = 11:11",
+      "solution": "DESEOS",
+      "author": "marinho",
+      "definitionText": "11:11",
+      "indicatorText": "-|+#3",
+      "fillerText": "500|e|6|1#1|0",
+      "hints": {
+        "definition": "La definición es \"11:11\".",
+        "indicator": "Los indicadores son \"-\" y \"+\". Uno es de Sustracción y el otro de Contenedor.",
+        "filler": "El relleno es \"500\", \"e\", \"6\", \"1\" y \"0\". Tendremos que buscar sustitutos para cuatro de ellos."
+      },
+      "definition": "Cuando vemos la hora 11:11 pedimos deseos.",
+      "wordplay": "\"500\" es D en romanos, E queda igual, y 6 es SEIS. Uniendo queda DESEIS, restando I (1 en romanos) y sumando O (0) queda DESEOS, que pedimos a las 11:11.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-07",
+      "clue": "Veo un americano hablando en voz alta ahora mismo en mi asiento.",
+      "solution": "SILLA",
+      "author": "sara.cdiaz",
+      "definitionText": "asiento",
+      "indicatorText": "americano|hablando|en voz alta",
+      "fillerText": "Veo|ahora mismo",
+      "hints": {
+        "definition": "La definición es \"asiento\".",
+        "indicator": "Los indicadores son \"americano\", \"hablando\" y \"en voz alta\". Uno es de Traducción, y los otros dos son de Homófono (que aplican a rellenos diferentes).",
+        "filler": "El relleno es \"Veo\" y \"ahora mismo\", tendremos que buscar sustitutos y aplicar los indicadores a estas palabras."
+      },
+      "definition": "Diseñada para que se siente una persona.",
+      "wordplay": "\"Veo un americano\" indica traducir \"veo\" al ingés, que es SEE, y \"hablando\" indica homófono, osea SI. \"En voz alta\" es otro homófono para el relleno \"ahora mismo\" que sutituimos por YA, y suena igual a LLA. SI + LLA = SILLA, un asiento.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-08",
+      "clue": "Batió chocolate y se deshizo de la mitad de otra prenda.",
+      "solution": "CHALECO",
+      "author": "Chiqui",
+      "definitionText": "prenda",
+      "indicatorText": "Batió|se deshizo de|la mitad de",
+      "fillerText": "chocolate|otra",
+      "hints": {
+        "definition": "La definición es \"prenda\".",
+        "indicator": "Los indicadores son \"Batió\", \"se deshizo de\" y \"la mitad de\". Uno es de Anagrama, y los otros dos de Sustracción.",
+        "filler": "El relleno es \"chocolate\" y \"otra\". A estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Prenda de vestir sin mangas que cubre el tronco o torso.",
+      "wordplay": "\"Batió chocolate\" indica reordenar las letras de \"chocolate\", quedando en este caso CHALECOOT. \"se deshizo de la mitad de otra\" indica quitarle OT (que es la mitad de OTRA). CHALECOOT - OT = CHALECO, que es una prenda.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-09",
+      "clue": "El feroz árbitro frente al espejo esconde algo bajo la manga.",
+      "solution": "BRAZO",
+      "author": "kurmin",
+      "definitionText": "algo bajo la manga",
+      "indicatorText": "frente al espejo|esconde",
+      "fillerText": "feroz árbitro",
+      "hints": {
+        "definition": "La definición es \"algo bajo la manga\".",
+        "indicator": "Los indicadores son \"frente al espejo\", y \"esconde\". Uno es de Reverso y el otro de Palabra Escondida.",
+        "filler": "El relleno es \"feroz árbitro\". A estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Está bajo la manga de abrigos/remeras.",
+      "wordplay": "\"Frente al espejo\" indica mirar al revés el relleno \"feroz árbitro\", osea ortiBRA ZOref, que \"esconde\" BRAZO, algo bajo la manga.",
+      "tag": ""
+    },
+    {
+      "date": "2026-11-10",
+      "clue": "Fueron largos días... Desataron al varón y se comió la quinta.",
+      "solution": "VERANO",
+      "author": "Franpa",
+      "definitionText": "Fueron largos días...",
+      "indicatorText": "Desataron|se comió",
+      "fillerText": "varón|la quinta",
+      "hints": {
+        "definition": "La definición es \"Fueron largos días...\".",
+        "indicator": "Los indicadores son \"Desataron\" y \"se comió\". Uno es de Anagrama y el otro de Contenedor.",
+        "filler": "El relleno es \"varón\" y \"la quinta\". Tendremos que buscar sustitutos para una de ellas."
+      },
+      "definition": "Los días son más largos y las noches más cortas.",
+      "wordplay": "\"Desataron al varón\" indica reordenar las letras, en este caso, VRANO. Y \"se comió la quinta\" refiere a la E, quinta letra del abecedario. Como VRANO se comió la E, queda VERANO, estación en la que los días son largos.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-11",
+      "clue": "Suena a que algo de la exhibición será muy difícil de soltar.",
+      "solution": "VICIO",
+      "author": "Aldisu",
+      "definitionText": "será muy difícil de soltar",
+      "indicatorText": "Suena a|algo de",
+      "fillerText": "exhibición",
+      "hints": {
+        "definition": "La definición es \"será algo difícil de soltar\".",
+        "indicator": "Los indicadores son \"Suena a\" y \"algo de\". Uno es de Homófono y el otro de Palabra Escondida.",
+        "filler": "El relleno es \"exhibición\". A esta palabra (o sustitutos) habrá que aplicar los indicadores."
+      },
+      "definition": "Hábito o costumbre considerada mala o perjudicial.",
+      "wordplay": "\"Algo de la exhiBICIÓn\" re sefiere a BICIO, que \"Suena a\" VICIO, que será difícil de soltar.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-12",
+      "clue": "Alimente la pausa.",
+      "solution": ",",
+      "author": "Franpa",
+      "definitionText": "la pausa",
+      "indicatorText": " ",
+      "fillerText": "Alimente",
+      "hints": {
+        "definition": "La definición es \"la pausa\".",
+        "indicator": "Este críptico no tiene indicadores. Habrá que buscar sustitutos del relleno.",
+        "filler": "El relleno es \"Alimente\", habrá que buscar un sustituto de esta palabra y convertirla en algo..."
+      },
+      "definition": "Es un signo de puntuación que marca una pausa.",
+      "wordplay": "\"Alimente\" es sinónimo de \"coma\" (de comer), y \"coma\" es \",\", una pausa.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-13",
+      "clue": "¡Llama 2 en 100! ¡No 500! ¡Equivocado!",
+      "solution": "INCENDIO",
+      "author": "Franpa",
+      "definitionText": "Llama",
+      "indicatorText": "Equivocado",
+      "fillerText": "2|en|100|No|500",
+      "hints": {
+        "definition": "La definición es \"Llama\".",
+        "indicator": "El indicador es \"Equivocado\", es de Anagrama.",
+        "filler": "El relleno es \"2\", \"en\", \"100\", \"No\" y \"500\". Habrá que buscar sustitutos para tres de ellos."
+      },
+      "definition": "Llama de fuego de grandes proporciones que se desarrolla sin control.",
+      "wordplay": "\"2\" es II en romanos, EN queda igual, \"100\" es C en romanos, NO queda igual, y \"500\" es D en romanos. Uniendo queda IIENCNOD, que \"Equivocado\" es INCENDIO, una llama.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-14",
+      "clue": "Me lleva sin principios hasta once.",
+      "solution": "TAXI",
+      "author": "leofrino",
+      "definitionText": "Me lleva",
+      "indicatorText": "sin principios",
+      "fillerText": "hasta|once",
+      "hints": {
+        "definition": "La definición es \"Me lleva\".",
+        "indicator": "El indicador es \"sin principios\", es de Sustracción.",
+        "filler": "El relleno es \"hasta\" y \"once\". A estas palabras (o sustitutos) tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Me lleva de un punto a otro.",
+      "wordplay": "\"Sin principios hasta\" indica sacarle la primer sílaba a HASTA, quedando TA. \"Once\" en romanos es XI. TA + XI = TAXI, que me lleva.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-15",
+      "clue": "Asesina con una navaja para cubrirse.",
+      "solution": "MANTA",
+      "author": "Franpa",
+      "definitionText": "para cubrirse",
+      "indicatorText": "con|una",
+      "fillerText": "Asesina|navaja",
+      "hints": {
+        "definition": "La definición es \"para cubrirse\".",
+        "indicator": "Los indicadores son \"con\" y \"una\". Uno es de Contenedor y el otro de Selector.",
+        "filler": "El relleno es \"Asesina\" y \"navaja\". Tendremos que buscar sustitutos para una de ellas."
+      },
+      "definition": "Pieza de tela para cubrirse y abrigar el cuerpo.",
+      "wordplay": "\"Asesina\" se sustituye por MATA, \"una navaja\" indica tomar la primera letra de \"navaja\", la N. MATA \"con\" N queda MANTA, que es para cubrirse.",
+      "tag": ""
+    },
+    {
+      "date": "2026-11-16",
+      "clue": "Cincuenta gramos de oro destruyen el éxito.",
+      "solution": "LOGRO",
+      "author": "NivoTheMax",
+      "definitionText": "el éxito",
+      "indicatorText": "destruyen",
+      "fillerText": "Cincuenta|gramos|oro",
+      "hints": {
+        "definition": "La definición es \"el éxito\".",
+        "indicator": "El indicador es \"destruyen\", es de Anagrama.",
+        "filler": "El relleno es \"Cincuenta\", \"gramos\" y \"oro\". Habrá que buscar sustitutos para dos de ellos."
+      },
+      "definition": "Resultado satisfactorio de una acción, esfuerzo o plan que permite alcanzar un objetivo determinado.",
+      "wordplay": "\"Cincuenta\" es L en romanos, \"gramos\" es G, y ORO queda igual. Uniendo queda LGORO, que \"destruído\" (anagrama) es LOGRO, el éxito.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-17",
+      "clue": "Falta algo de la tentativa de homicidio que se dicta en el juicio penal a las 6 y a las 9.",
+      "solution": "OMISION",
+      "author": "tomimart",
+      "definitionText": "Falta algo",
+      "indicatorText": " la tentativa de|se dicta|en el|a las 6 y a las 9",
+      "fillerText": "homicidio|juicio penal",
+      "hints": {
+        "definition": "La definición es \"Falta algo\".",
+        "indicator": "Los indicadores son \"la tentativa de\", \"se dicta\", \"en el (...) a las 6 y a las 9\". Uno es de Sustracción, uno de Homófono, y el otro de Selector.",
+        "filler": "El relleno es \"homicidio\" y \"juicio penal\". Sobre estas palabras habrá que aplicar los indicadores."
+      },
+      "definition": "Abstención de hacer o decir algo.",
+      "wordplay": "\"La tentativa de homicidio\" indica tomar sólo una parte de la palabra, en este caso HOMICI, y como \"se dicta\" (Homófono), queda OMISI. \"en el juicio penal a las 6 y a las 9\" indica tomar la sexta y la novena letra de \"juiciO peNal\", ON. OMISI + ON = OMISION, cuando falta algo.",
+      "tag": ""
+    },
+    {
+      "date": "2026-11-18",
+      "clue": "Tibia y húmeda, no me da besos desnudo.",
+      "solution": "HUESO",
+      "author": "Franpa",
+      "definitionText": "Tibia",
+      "indicatorText": "no|desnudo",
+      "fillerText": "húmeda|me da|besos",
+      "hints": {
+        "definition": "La definición es \"Tibia\".",
+        "indicator": "Los indicador son \"no\" y \"desnudo\", ambos de Sustracción pero para rellenos diferentes.",
+        "filler": "El relleno es \"húmeda\", \"me da\" y \"besos\". A estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "La tibia es el hueso principal, más largo y resistente de la parte inferior de la pierna.",
+      "wordplay": "\"Húmeda, no me da\" indica quitar ME DA de \"húmeda\", quedando HU. \"besos desnudo\" indica quitarle los extremos (lo que cubre) a \"besos\", quedando ESO. HU + ESO = HUESO, como la tibia.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-19",
+      "clue": "¿Donut en lata? Extraño. Duplica una levadura seca.",
+      "solution": "TOALLA",
+      "author": "Cristian Botina",
+      "definitionText": "seca",
+      "indicatorText": "en|Extraño|Duplica|una",
+      "fillerText": "Donut|lata|levadura",
+      "hints": {
+        "definition": "La definición es \"seca\".",
+        "indicator": "Los indicadores son \"en\", \"Duplica\", \"Extraño\" y \"una\". Uno es de Contenedor, uno indica literalmente duplicar algo, uno es de Anagrama, y el otro es de Selector.",
+        "filler": "El relleno es \"Donut\", \"lata\" y \"levadura\". Tendremos que buscar un sustituto para una de ellas."
+      },
+      "definition": "Para secar el cuerpo o el cabello.",
+      "wordplay": "Un \"Donut\" tiene forma de O, y O en LATA, \"Extraño\" (Anagrama), queda TOALA. \"Una levadura\" indica tomar una letra de levadura, la L. Duplicándola queda TOALLA, que seca.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-20",
+      "clue": "El pan con un rulo. Oigo, huelo y seco mis lágrimas.",
+      "solution": "PAÑUELO",
+      "author": "Aldisu",
+      "definitionText": "seco mis lágrimas",
+      "indicatorText": "con un rulo|Oigo",
+      "fillerText": "pan|huelo",
+      "hints": {
+        "definition": "La definición es \"seco mis lágrimas\".",
+        "indicator": "Los indicadores son \"con un rulo\" y \"Oigo\". Uno indica agregar algo a algún relleno, y el otro es de Homófono.",
+        "filler": "El relleno es \"pan\" y \"huelo\". A estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Trozo de tela o papel para sonarse la nariz, limpiarse las manos o el sudor.",
+      "wordplay": "\"Pan con un rulo\" indica agregar la virgulilla a la N, quedando Ñ (PAÑ). \"Oigo, huelo\" indica escribir HUELO como suena, osea UELO. PAÑ + UELO = PAÑUELO, con lo que seco mis lágrimas.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-21",
+      "clue": "Exento de cruz, mi naciente alboroto sobresale.",
+      "solution": "EMINENCIA",
+      "author": "Franpa",
+      "definitionText": "sobresale",
+      "indicatorText": "Exento de cruz|alboroto",
+      "fillerText": "mi naciente",
+      "hints": {
+        "definition": "La definición es \"sobresale\".",
+        "indicator": "Los indicadores son \"Exento de cruz\" y \"alboroto\". Uno es de Sustracción y el otro de Anagrama.",
+        "filler": "El relleno es \"mi naciente\". A estas palabras tendremos que aplicar los indicadores."
+      },
+      "definition": "Cualidad de sobresalir o estar por encima de lo que le rodea.",
+      "wordplay": "Exento de cruz indica quitar la T (que tiene forma de cruz) del relleno \"mi naciente\", quedando MI NACIENE. \"Alboroto\" indica reordenar esas letras, quedando EMINENCIA, que sobresale.",
+      "tag": ""
+    },
+    {
+      "date": "2026-11-22",
+      "clue": "¿Leona y Taric? Raro el cambio.",
+      "solution": "ALTERACION",
+      "author": "Franpa",
+      "definitionText": "el cambio",
+      "indicatorText": "Raro",
+      "fillerText": "Leona|Taric",
+      "hints": {
+        "definition": "La definición es \"el cambio\".",
+        "indicator": "El indicador es \"Raro\", es de Anagrama.",
+        "filler": "El relleno es \"Leona\" y \"Taric\". A estas palabras tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Acción y efecto de cambiar, modificar o perturbar el estado normal.",
+      "wordplay": "\"Taric\" y \"Leona\" juntan las letras TARICLEONA, que \"raro\" (Anagrama) queda ALTERACION, un cambio.",
+      "tag": "EDICIÓN LOL"
+    },
+    {
+      "date": "2026-11-23",
+      "clue": "El origen del origen yendo hacia el origen. No te marees.",
+      "solution": "GIRO",
+      "author": "Argiope",
+      "definitionText": "No te marees",
+      "indicatorText": "El origen del|yendo hacia el origen",
+      "fillerText": "origen#2",
+      "hints": {
+        "definition": "La definición es \"No te marees\".",
+        "indicator": "Los indicadores son \"El origen del\" y \"yendo hacia el origen\". Uno es de Selector y el otro de Reverso.",
+        "filler": "El relleno es \"origen\". A esta palabra tendremos que aplicar el/los indicador/es."
+      },
+      "definition": "Algo que puede marearte.",
+      "wordplay": "\"El origen del origen\" indica tomar sus primeras letras, en este caso ORIG. \"Yendo hacia el origen\" indica Reverso, entonces queda GIRO, que te marea.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-24",
+      "clue": "¡Es un montón dos! ¡Muchísimo! Metételo en el culo.",
+      "solution": "CUMULO",
+      "author": "Franpa",
+      "definitionText": "Es un montón",
+      "indicatorText": "dos|Metételo en",
+      "fillerText": "Muchísimo|culo",
+      "hints": {
+        "definition": "La definición es \"Es un montón\".",
+        "indicator": "Los indicadores son \"dos\" y \"Metételo en\". Uno es de Selector y el otro de Contenedor.",
+        "filler": "El relleno es \"Muchísimo\" y \"culo\"."
+      },
+      "definition": "Junta, unión o suma de muchas cosas materiales o inmateriales.",
+      "wordplay": "\"... dos! ¡Muchísimo!\" indica tomar las dos primeras letras de \"Muchísimo\", osea MU. \"Metételo en el culo\", indica meter MU en CULO, quedando CUMULO, que es un montón.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-25",
+      "clue": "Si Mercado Pago agrega 50, ¿anuncia esa tontería?",
+      "solution": "SIMPLEZA",
+      "author": "tomás martín",
+      "definitionText": "tontería",
+      "indicatorText": "anuncia",
+      "fillerText": "Si|Mercado Pago|50|esa",
+      "hints": {
+        "definition": "La definición es \"tontería\".",
+        "indicator": "El indicador es \"anuncia\", es de Homófono.",
+        "filler": "El relleno es \"Si\", \"Mercado Pago\", \"50\", y \"esa\". Tendremos que buscar sustitutos para dos de ellas, y aplicar el/los indicador/es."
+      },
+      "definition": "Algo simple, una tontería, bobería.",
+      "wordplay": "\"Si\" queda como está, \"Mercado Pago\", se abrevia MP, \"50\" en romanos es L, y \"anuncia esa\" indica Homófono de \"esa\", en este caso EZA. Uniendo todo queda SIMPLEZA, una tontería.",
+      "tag": null
+    },
+    {
+      "date": "2026-11-26",
+      "clue": "La capturamos porque robó el botón del pantalón y dejó allí un artículo femenino.",
+      "solution": "PANTALLA",
+      "author": "Russo franco",
+      "definitionText": "La capturamos",
+      "indicatorText": "robó el botón|dejó allí",
+      "fillerText": "pantalón|un artículo femenino",
+      "hints": {
+        "definition": "La definición es \"La capturamos\".",
+        "indicator": "Los indicadores son \"robó el botón\" y \"dejo allí\". Uno es de Sustracción, y el otro indica agregar algo.",
+        "filler": "El relleno es \"pantalón\" y \"un artículo femenino\". Tendremos que buscar un sustituto para uno de ellos, y aplicar el/los indicador/es."
+      },
+      "definition": "Hacemos \"screenshot\" (captura de pantalla).",
+      "wordplay": "\"Robó el botón del pantalón\", indica quitar ON (que suele se un botón de encender) de \"pantalón\", quedando PANTAL. \"Dejó allí un artículo femenino\" indica agregar LA (artículo femenino). PANTAL + LA = PANTALLA, que la capturamos.",
+      "tag": null
+    }
+  ]
+}
