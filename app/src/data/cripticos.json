@@ -1,6 +1,6 @@
 {
   "source": "https://cripticodiario.com",
-  "generatedAt": "2026-11-26T20:53:34.497Z",
+  "generatedAt": "2026-11-27T04:54:37.274Z",
   "count": 50,
   "puzzles": [
     {
@@ -749,23 +749,23 @@
       },
       "definition": "Parte superior que cubre y cierra una estructura por arriba.",
       "wordplay": "\"Dos tercios\" indica que hay que tomar un tercio de cada relleno: uno de \"tomaTE\" y uno de \"CHOcolate\". TE + CHO = TECHO, que está por arriba.",
-      "tag": null
+      "tag": "CASO CRÍPTICO #6 SÁBADO"
     },
     {
       "date": "2026-11-28",
-      "clue": "Ya pasó, el hielo se derritió, queda menos de la mitad... Esto no empezó sabroso.",
+      "clue": "Ya pasó, queda menos de la mitad del hielo... Esto no empezó sabroso.",
       "solution": "HISTORICO",
       "author": "Franpa",
       "definitionText": "Ya pasó",
-      "indicatorText": "derritió, queda menos de la mitad|no empezó",
+      "indicatorText": "queda menos de la mitad del|no empezó",
       "fillerText": "hielo|Esto|sabroso",
       "hints": {
         "definition": "La definición es \"Ya pasó\".",
-        "indicator": "Los indicadores son \"derritió, queda menos de la mitad\" y \"no empezó\". Ambos son de Sustracción, pero para rellenos diferentes.",
+        "indicator": "Los indicadores son \"queda menos de la mitad del\" y \"no empezó\". Ambos son de Sustracción, pero para rellenos diferentes.",
         "filler": "El relleno es \"hielo\", \"Esto\" y \"sabroso\". Tendremos que buscar un sustituto para uno de ellos."
       },
       "definition": "Hechos, personajes, documentos o procesos vinculados al pasado.",
-      "wordplay": "\"El hielo se derritió, queda menos de la mitad\" indica quedarnos sólo con las dos primeras letras de \"hielo\", HI. \"Esto no empezó\" indica quitarle la primera letra a \"Esto\", quedando STO. \"Sabroso\" es RICO. HI + STO + RICO = HISTORICO, que ya pasó.",
+      "wordplay": "\"Queda menos de la mitad del hielo\" indica quedarnos sólo con las dos primeras letras de \"hielo\", HI. \"Esto no empezó\" indica quitarle la primera letra a \"Esto\", quedando STO. \"Sabroso\" es RICO. HI + STO + RICO = HISTORICO, que ya pasó.",
       "tag": null
     },
     {
