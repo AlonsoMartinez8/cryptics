@@ -1,7 +1,7 @@
 {
   "source": "https://cripticodiario.com",
-  "generatedAt": "2026-11-27T04:54:37.274Z",
-  "count": 50,
+  "generatedAt": "2026-11-28T04:39:26.496Z",
+  "count": 51,
   "puzzles": [
     {
       "date": "2026-10-15",
@@ -749,7 +749,7 @@
       },
       "definition": "Parte superior que cubre y cierra una estructura por arriba.",
       "wordplay": "\"Dos tercios\" indica que hay que tomar un tercio de cada relleno: uno de \"tomaTE\" y uno de \"CHOcolate\". TE + CHO = TECHO, que está por arriba.",
-      "tag": "CASO CRÍPTICO #6 SÁBADO"
+      "tag": ""
     },
     {
       "date": "2026-11-28",
@@ -766,7 +766,7 @@
       },
       "definition": "Hechos, personajes, documentos o procesos vinculados al pasado.",
       "wordplay": "\"Queda menos de la mitad del hielo\" indica quedarnos sólo con las dos primeras letras de \"hielo\", HI. \"Esto no empezó\" indica quitarle la primera letra a \"Esto\", quedando STO. \"Sabroso\" es RICO. HI + STO + RICO = HISTORICO, que ya pasó.",
-      "tag": null
+      "tag": "CASO CRÍPTICO #6 ESTA NOCHE"
     },
     {
       "date": "2026-11-29",
@@ -851,6 +851,23 @@
       },
       "definition": "Columna de aire estrecha que gira violentamente.",
       "wordplay": "\"Caos\" indica hacer un Anagrama del relleno \"rotando\", que queda TORNADO: ¡Caos rotando!",
+      "tag": null
+    },
+    {
+      "date": "2026-12-04",
+      "clue": "El postre cesa musicalmente, con la segunda nota.",
+      "solution": "CEREZA",
+      "author": "Franpa",
+      "definitionText": "El postre",
+      "indicatorText": "musicalmente|con",
+      "fillerText": "cesa|la segunda nota",
+      "hints": {
+        "definition": "La definición es \"El postre\".",
+        "indicator": "Los indicadores son \"musicalmente\" y \"con\". Uno es de Homófono y el otro de Contenedor.",
+        "filler": "El relleno es \"cesa\" y \"la segunda nota\". Habrá que buscar un sustituto para uno de ellos."
+      },
+      "definition": "\"La cereza del postre\", expresión metafórica que designa el detalle final.",
+      "wordplay": "\"cesa musicalmente\", indica tomar un Homófono de \"cesa\", en este caso CEZA. \"Con la segunda nota\" indica que CEZA contiene RE, la segunda nota musical. Queda CEREZA, la del postre.",
       "tag": null
     }
   ]
